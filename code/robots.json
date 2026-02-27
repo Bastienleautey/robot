@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "nigga",
+        "type": "Assaut",
+        "pv": 5,
+        "pv_max": 52,
+        "attaque": 16,
+        "defense": 16,
+        "vitesse": 16,
+        "energie": 100
+    },
+    {
+        "nom": "niggaProMax",
+        "type": "Agile",
+        "pv": 52,
+        "pv_max": 52,
+        "attaque": 16,
+        "defense": 16,
+        "vitesse": 16,
+        "energie": 100
+    },
+    {
+        "nom": "nathalie",
+        "type": "Assaut",
+        "pv": 0,
+        "pv_max": 52,
+        "attaque": 16,
+        "defense": 16,
+        "vitesse": 16,
+        "energie": 100
+    }
+]
