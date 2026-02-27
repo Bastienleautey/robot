@@ -1,0 +1,19 @@
+# Ignore BMAD configuration and metadata
+_bmad/
+
+# Ignore GitHub workflows or other repository settings directories if needed
+.github/
+
+# Python environment
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor files
+*.swp
+*~
